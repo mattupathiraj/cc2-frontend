@@ -1,0 +1,25 @@
+
+.upbox{
+    width: 500px;
+    height: 699px;
+    margin-top: 40px;
+    padding-top: 1px;
+    margin-right: 320px;
+    background-color:rgb(247, 216, 212);
+    margin-left: 835px;
+
+}
+.uprow{
+    text-align: left;
+    font-size: 20px;
+}
+.upcont{
+    background-image: url("https://img.freepik.com/premium-vector/relatives-visiting-handicapped-grandfather-rehabilitation-clinic-happy-young-couple-children-meeting-granny-talking-doctor-hospital-ward-positive-medical-forecast-sick-retired-patient_189557-390.jpg?w=2000");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+.upsubmit{
+    background-color: rgb(73, 133, 157);
+    color: rgb(255, 255, 255);
+}

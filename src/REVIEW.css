@@ -1,0 +1,24 @@
+.revbox{
+    width: 500px;
+    height: 699px;
+    margin-top: 40px;
+    padding-top: 1px;
+    margin-right: 320px;
+    background-color: rgb(168, 204, 220);
+    margin-left: 130px;
+
+}
+.revrow{
+    text-align: left;
+    font-size: 20px;
+}
+.revcont{
+    background-image: url("https://medibhai.com/uploads/hospital_image/hospital-profile-default.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+.revsubmit{
+    background-color: rgb(23, 78, 100);
+    color: rgb(187, 217, 246);
+}

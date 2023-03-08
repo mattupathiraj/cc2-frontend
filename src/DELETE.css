@@ -1,0 +1,26 @@
+
+.delbox{
+    width: 500px;
+    height: 217px;
+    margin-top: 0px;
+    padding-top: 1px;
+    margin-right: 50px;
+    background-color: rgb(228, 214, 187);
+    margin-left: 150px;
+
+}
+.delrow{
+    text-align: left;
+    font-size: 20px;
+}
+.delcont{
+    background-image: url("https://img.freepik.com/premium-vector/mother-holds-newborn-her-arms-cartoon-flat_81522-3836.jpg?w=2000");
+    
+    height: 717px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.delsubmit{
+    background-color: rgb(73, 133, 157);
+    color: rgb(255, 255, 255);
+}
